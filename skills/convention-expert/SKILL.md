@@ -17,6 +17,9 @@ description: 专门用于学习、分析和执行现有 Spring Boot 项目的编
 - **绝对禁止** 学习或参考以下目录中的文件（路径相对于项目根目录）：
     - `**/controller/ifm/**`
     - `**/service/ifm/**`
+    - `**/target/**`
+    - `**/.idea/**`
+    - `**/.gitea/**`
 - 将这些目录视为黑盒或特定集成，不代表项目的目标编码标准。
 
 ## 学习策略：研究与映射流程 (Study & Map Workflow)
